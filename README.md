@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# McChicken-LC-Mod
+Adds McChicken to Lethal Company
